@@ -1,9 +1,9 @@
-import Nav from "@/components/Nav";
-import Hero from "@/components/Hero";
-import Features from "@/components/Features";
-import FAQ from "@/components/FAQ";
-import CTA from "@/components/CTA";
-import Footer from "@/components/Footer";
+import Nav from "@/components/landing/Nav";
+import Hero from "@/components/landing/Hero";
+import Features from "@/components/landing/Features";
+import FAQ from "@/components/landing/FAQ";
+import CTA from "@/components/landing/CTA";
+import Footer from "@/components/landing/Footer";
 
 const Index = () => {
   return (
@@ -13,7 +13,7 @@ const Index = () => {
       <Hero />
       <Features />
       <FAQ />
-       <CTA /> 
+      <CTA />
       <Footer />
     </div>
   );

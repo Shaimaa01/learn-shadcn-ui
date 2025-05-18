@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     question: "Is there a mobile app?",
-    answer: "Absolutely! FinTrack is available on iOS and Android devices, so you can track your finances on the go."
+    answer: "Not yet — but possibly in the future! We're exploring the idea of launching a mobile app for iOS and Android so you can track your finances on the go. Stay tuned!"
   },
   {
     question: "How is FinTrack different from other financial apps?",

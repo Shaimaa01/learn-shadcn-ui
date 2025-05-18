@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button";
+import Index from "./pages/Index";
 
 function App() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-svh">
-      <Button> so cute 🙄</Button>
+    <div>
+      <Index />
     </div>
   );
 }
